@@ -1,1 +1,1 @@
-"# binancePricesDownloader" 
+# binancePricesDownloader
